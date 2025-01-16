@@ -1,0 +1,16 @@
+Siglas/termos:
+--------------
+
+API: Application Program Interface
+
+url: Uniform Resource Locator
+
+http: Hypertext Transfer Protocol
+
+https: Hypertext Transfer Protocol Secury
+
+Dashboard: Ferramenta que apresenta informações de forma visual e
+           interativa
+
+
+
